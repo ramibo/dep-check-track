@@ -94,7 +94,7 @@ Please ensure you have the following on your machine :
 
 1. Build the jenkins docker image via Dockerfile
     ```shell
-    docker build -t rammatz/jenkins-image:latest .
+    docker build -t jenkins-image:latest .
     ```
 
 
@@ -108,7 +108,7 @@ Please ensure you have the following on your machine :
              -p 50000:50000 \
              -v /tmp/jenkins/home:/var/jenkins_home \
              -e DEPENDENCY_TRACK_API_KEY=<YOUR_API_KEY> \
-             rammatz/jenkins-image:latest
+             jenkins-image:latest
     ```
 
 3. Get the initial admin password for Jenkins and copy it to the clipboard :
