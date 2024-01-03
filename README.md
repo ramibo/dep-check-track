@@ -62,7 +62,7 @@ Please ensure you have the following on your machine :
 2. Open your web browser and access dependency track web ui via http://localhost:8080
 
 
-### setup
+### Setup
 1. Login with the default credentials (admin/admin):
 
     **Username** : admin
@@ -77,7 +77,7 @@ Please ensure you have the following on your machine :
    - Copy the **API key** and save it for later use.
    - At the **Permissions** section of the team ,click on the ```+``` symbole -> select all the permissions and click on the select button.
 
-     <img src="images/img_3.png" alt="Your Image Description" style="width: 60%;" />
+     <img src="images/img_3.png" alt="Your Image Description" style="width: 75%;" />
 
 
 4. Create a policy for the project : #Todo
@@ -140,11 +140,11 @@ Please ensure you have the following on your machine :
 
   - In Jenkins:
 
-    <img src="images/img_4.png" alt="Your Image Description" style="width: 75%;" />
+    <img src="images/img_4.png" alt="Your Image Description" style="width: 100%;" />
     
   - In Dependency Track:  
 
-    <img src="images/img_5.png" alt="Your Image Description" style="width: 75%;" />
+    <img src="images/img_5.png" alt="Your Image Description" style="width: 100%;" />
   
   
 ### References
