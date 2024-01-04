@@ -26,10 +26,11 @@ to scan the [WebGoat-v.8.10](https://github.com/WebGoat/WebGoat/tree/v8.1.0) pro
 
 ## Prerequisites
 
-Please ensure you have the following on your machine :
+Please ensure you have the following:
+
+1. Basic knowledge in [shell commands](https://missing.csail.mit.edu/2020/course-shell/).
 1. [git](https://git-scm.com/downloads) installed on your machine.
 2. [Docker](https://www.docker.com/get-started/) and [Docker Compose](https://docs.docker.com/compose/install/) installed on your machine.
-
 ## Initial Setup
 
 1. Clone the project to your machine with the following git command :
@@ -131,7 +132,7 @@ Please ensure you have the following on your machine :
 ### Jenkins pipeline configuration
 1. Go to jenkins home page and click on **New Item**.
 2. Enter the item name , select **Pipeline** and click on **OK**.
-3. At the **Pipeline** section select **Pipeline script and paste script from [Jenkinsfile](Jenkinsfile) file.
+3. At the **Pipeline** section select **Pipeline** script and paste script from [Jenkinsfile](Jenkinsfile) file.
 4. Click on **Save** button.
 5. Click on **Build Now** button to run the pipeline.
 
