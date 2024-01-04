@@ -81,7 +81,7 @@ Please ensure you have the following:
      <img src="images/img_3.png" alt="Your Image Description" style="width: 75%;" />
 
 
-4. Create a policy for the project : #Todo
+4. Create a policy for the project :
    - Go to Administration-> Policies Management -> click on the ```+Create Policy``` button.
    - Enter the policy name -> Create.
    - Set the Operator to Any and Violation State Warn.
@@ -151,6 +151,8 @@ Please ensure you have the following:
   
   
 ### References
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
+- [How to Analyze the OWASP Dependency-Check?](https://www.aquasec.com/cloud-native-academy/supply-chain-security/owasp-dependency-check/)
 
 
 
