@@ -82,12 +82,14 @@ Please ensure you have the following:
 
 
 4. Create a policy for the project : #Todo
-   - Go to Administration -> Project -> Policies -> click on the ```+``` symbole.
-   - Enter the policy name and description.
-   - Select the **Automation** team.
+   - Go to Administration-> Policies Management -> click on the ```+Create Policy``` button.
+   - Enter the policy name -> Create.
+   - Set the Operator to Any and Violation State Warn.
    - Select the **High** severity level.
-   - Select the **Fail build** option.
-   - Click on the **Save** button.
+   
+        <img src="images/img_6.png" alt="Your Image Description" style="width: 75%;" />
+
+
 
 ## Run Jenkins with Dependency Check
 
